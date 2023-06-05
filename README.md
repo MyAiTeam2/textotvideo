@@ -1,4 +1,4 @@
-## Potat 1️⃣ 
+# Potat 1️⃣ 
 First Open-Source 1024x576 Text To Video Model 🥳  
 
 ### Info
