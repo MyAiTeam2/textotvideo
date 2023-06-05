@@ -5,6 +5,9 @@ tags:
 - Text2Video
 ---
 
+🐣 Please follow me for new updates https://twitter.com/camenduru <br />
+🔥 Please join our discord server https://discord.gg/k5BwmmvJJU
+
 ![00041-3056174990](https://github.com/camenduru/Text-To-Video-Finetuning-colab/assets/54370274/fa703668-a931-41e1-8bcf-19c72203980b)
 
 # Potat 1️⃣ 
