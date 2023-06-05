@@ -14,7 +14,7 @@
     "CLIPTokenizer"
   ],
   "unet": [
-    "models.unet_3d_condition",
+    "diffusers",
     "UNet3DConditionModel"
   ],
   "vae": [
