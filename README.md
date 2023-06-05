@@ -1,9 +1,11 @@
 ---
-thumbnail: "https://user-images.githubusercontent.com/54370274/243292723-fa703668-a931-41e1-8bcf-19c72203980b.png"
+thumbnail: https://user-images.githubusercontent.com/54370274/243292723-fa703668-a931-41e1-8bcf-19c72203980b.png
 tags:
 - TextTovideo
 - Text2Video
 ---
+
+![00041-3056174990](https://github.com/camenduru/Text-To-Video-Finetuning-colab/assets/54370274/fa703668-a931-41e1-8bcf-19c72203980b)
 
 # Potat 1️⃣ 
 First Open-Source 1024x576 Text To Video Model 🥳  
