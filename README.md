@@ -7,7 +7,6 @@ Trained with https://lambdalabs.com ❤ 1xA100 (40GB) <br />
 2197 clips, 68388 tagged frames ( [salesforce/blip2-opt-6.7b-coco](https://huggingface.co/Salesforce/blip2-opt-6.7b-coco) ) <br />
 train_steps: 10000 <br />
 
-
 ### Dataset & Config
 https://huggingface.co/camenduru/potat1_dataset/tree/main
 
@@ -24,5 +23,7 @@ https://www.modelscope.cn/models/damo/text-to-video-synthesis <br />
 Thanks to ModelScope ❤ ExponentialML ❤ @DiffusersLib ❤ @LambdaAPI ❤ @cerspense ❤ @CiaraRowles1 ❤ @p1atdev_art  ❤ <br />
 
 Please try it 🐣 <br />
+
+<video src="https://user-images.githubusercontent.com/54370274/243275155-97282de4-e1df-49a0-851e-cb8b4b040441.mp4" data-canonical-src="https://user-images.githubusercontent.com/54370274/243275155-97282de4-e1df-49a0-851e-cb8b4b040441.mp4" controls="controls" muted="muted" class="d-block rounded-bottom-2 border-top width-fit" style="max-height:640px; min-height: 200px"></video>
 
 Potat 2️⃣ is in the oven ♨ <br />
