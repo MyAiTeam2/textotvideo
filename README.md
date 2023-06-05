@@ -10,7 +10,7 @@ train_steps: 10000 <br />
 ### Dataset & Config
 https://huggingface.co/camenduru/potat1_dataset/tree/main
 
-### Repos
+### Finetuning
 https://github.com/Breakthrough/PySceneDetect <br />
 https://github.com/ExponentialML/Video-BLIP2-Preprocessor <br />
 https://github.com/ExponentialML/Text-To-Video-Finetuning <br />
