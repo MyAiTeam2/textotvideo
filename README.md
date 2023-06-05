@@ -20,7 +20,7 @@ https://github.com/camenduru/Text-To-Video-Finetuning-colab <br />
 https://huggingface.co/damo-vilab/modelscope-damo-text-to-video-synthesis <br />
 https://www.modelscope.cn/models/damo/text-to-video-synthesis <br />
 
-Thanks to ModelScope ❤ ExponentialML ❤ @DiffusersLib ❤ @LambdaAPI ❤ @cerspense ❤ @CiaraRowles1 ❤ @p1atdev_art  ❤ <br />
+Thanks to [damo-vilab](https://damo.alibaba.com/) ❤ [ExponentialML](https://github.com/ExponentialML) ❤ [@DiffusersLib](https://twitter.com/DiffusersLib) ❤ [@LambdaAPI](https://twitter.com/LambdaAPI) ❤ [@cerspense](https://twitter.com/cerspense) ❤ [@CiaraRowles1](https://twitter.com/CiaraRowles1) ❤ [@p1atdev_art](https://twitter.com/p1atdev_art)  ❤ <br />
 
 Please try it 🐣 <br />
 
