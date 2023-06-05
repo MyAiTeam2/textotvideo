@@ -1,7 +1,7 @@
 {
   "_class_name": "AutoencoderKL",
   "_diffusers_version": "0.17.0.dev0",
-  "_name_or_path": "/home/ubuntu/models/model_scope_diffusers/",
+  "_name_or_path": "./models/model_scope_diffusers/",
   "act_fn": "silu",
   "block_out_channels": [
     128,
