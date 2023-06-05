@@ -23,6 +23,7 @@ https://www.modelscope.cn/models/damo/text-to-video-synthesis <br />
 Thanks to [damo-vilab](https://damo.alibaba.com/) ❤ [ExponentialML](https://github.com/ExponentialML) ❤ [@DiffusersLib](https://twitter.com/DiffusersLib) ❤ [@LambdaAPI](https://twitter.com/LambdaAPI) ❤ [@cerspense](https://twitter.com/cerspense) ❤ [@CiaraRowles1](https://twitter.com/CiaraRowles1) ❤ [@p1atdev_art](https://twitter.com/p1atdev_art)  ❤ <br />
 
 Please try it 🐣 <br />
+https://github.com/camenduru/text-to-video-synthesis-colab <br />
 
 <video src="https://user-images.githubusercontent.com/54370274/243275155-97282de4-e1df-49a0-851e-cb8b4b040441.mp4" data-canonical-src="https://user-images.githubusercontent.com/54370274/243275155-97282de4-e1df-49a0-851e-cb8b4b040441.mp4" controls="controls" muted="muted" class="d-block rounded-bottom-2 border-top width-fit" style="max-height:640px; min-height: 200px"></video>
 
