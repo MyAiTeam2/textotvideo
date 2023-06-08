@@ -3,6 +3,7 @@ thumbnail: https://user-images.githubusercontent.com/54370274/243292723-fa703668
 tags:
 - TextTovideo
 - Text2Video
+- text-to-video 
 ---
 
 🐣 Please follow me for new updates https://twitter.com/camenduru <br />
