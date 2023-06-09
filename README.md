@@ -16,6 +16,7 @@ First Open-Source 1024x576 Text To Video Model 🥳
 
 https://huggingface.co/vdo/potat1-5000/tree/main <br />
 https://huggingface.co/vdo/potat1-10000/tree/main = https://huggingface.co/camenduru/potat1 (you are here) <br />
+https://huggingface.co/vdo/potat1-10000-base-text-encoder/tree/main <br />
 https://huggingface.co/vdo/potat1-15000/tree/main <br />
 https://huggingface.co/vdo/potat1-20000/tree/main <br />
 https://huggingface.co/vdo/potat1-25000/tree/main <br />
@@ -24,6 +25,8 @@ https://huggingface.co/vdo/potat1-35000/tree/main <br />
 https://huggingface.co/vdo/potat1-40000/tree/main <br />
 https://huggingface.co/vdo/potat1-45000/tree/main <br /> 
 https://huggingface.co/vdo/potat1-50000/tree/main <br />
+https://huggingface.co/vdo/potat1-50000-base-text-encoder/tree/main <br />
+
 
 ### Info
 Prototype Model <br />
