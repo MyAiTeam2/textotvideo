@@ -15,7 +15,7 @@ tags:
 First Open-Source 1024x576 Text To Video Model 🥳  
 
 https://huggingface.co/vdo/potat1-5000/tree/main <br />
-https://huggingface.co/vdo/potat1-10000/tree/main = https://huggingface.co/camenduru/potat1 (you are here) <br />
+https://huggingface.co/vdo/potat1-10000/tree/main <br />
 https://huggingface.co/vdo/potat1-10000-base-text-encoder/tree/main <br />
 https://huggingface.co/vdo/potat1-15000/tree/main <br />
 https://huggingface.co/vdo/potat1-20000/tree/main <br />
@@ -25,7 +25,7 @@ https://huggingface.co/vdo/potat1-35000/tree/main <br />
 https://huggingface.co/vdo/potat1-40000/tree/main <br />
 https://huggingface.co/vdo/potat1-45000/tree/main <br /> 
 https://huggingface.co/vdo/potat1-50000/tree/main <br />
-https://huggingface.co/vdo/potat1-50000-base-text-encoder/tree/main <br />
+https://huggingface.co/vdo/potat1-50000-base-text-encoder/tree/main = https://huggingface.co/camenduru/potat1 (you are here) <br />
 
 
 ### Info
@@ -48,6 +48,8 @@ https://huggingface.co/damo-vilab/modelscope-damo-text-to-video-synthesis <br />
 https://www.modelscope.cn/models/damo/text-to-video-synthesis <br />
 
 Thanks to [damo-vilab](https://damo.alibaba.com/) ❤ [ExponentialML](https://github.com/ExponentialML) ❤ [kabachuha](https://github.com/kabachuha) ❤ [@DiffusersLib](https://twitter.com/DiffusersLib) ❤ [@LambdaAPI](https://twitter.com/LambdaAPI) ❤ [@cerspense](https://twitter.com/cerspense) ❤ [@CiaraRowles1](https://twitter.com/CiaraRowles1) ❤ [@p1atdev_art](https://twitter.com/p1atdev_art)  ❤ <br />
+
+Thanks to Orellius ❤ (important bug report) <br />
 
 Please try it 🐣 <br />
 https://github.com/camenduru/text-to-video-synthesis-colab <br />
